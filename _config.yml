@@ -1,0 +1,8 @@
+title: 维尼
+description: This is where we start
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
